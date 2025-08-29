@@ -8,7 +8,7 @@ Projects include applications in:
 
 - **Data Analysis** using `pandas` and `NumPy`
 - **Data Visualization** with `matplotlib`, `seaborn`, and `pandas`
-- **Machine Learning** with `scikit-learn`:
+- **Machine Learning** with `scikit-learn`, `TensorFlow` and `Keras`:
   - Regression and classification
   - Clustering (e.g., K-Means)
   - Natural Language Processing
