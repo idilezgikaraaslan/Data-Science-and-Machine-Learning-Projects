@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Projects
 
-This repository contains my projects from the **Python for Data Science and Machine Learning Bootcamp** (Udemy), which I am currently completing. The projects demonstrate practical applications of core concepts in data science and machine learning using Python.
+This repository contains my projects from the **Python for Data Science and Machine Learning Bootcamp** (Udemy, 25 hours). The projects demonstrate practical applications of core concepts in data science and machine learning using Python.
 
 ## Topics and Tools
 
